@@ -17,5 +17,8 @@ Working: Drowsy Driver Detection System has been developed, using the intrusive 
          face and eyes of the driver by using the given commands. Then it will detect whether the eyes of 
          driver are open or close. If the eyes are closed more than given time interval it will warn the driver 
          by playing the alarm.
+Output:![WhatsApp Image 2024-07-08 at 22 49 10_c6d6339d](https://github.com/user-attachments/assets/89a7f57b-39c3-47a2-aaff-d1262cbe004e)
+       ![WhatsApp Image 2024-07-08 at 22 49 09_cc0f3f73](https://github.com/user-attachments/assets/196a5eb5-3018-420a-a674-1b0a2d77436e)
+
 
                
